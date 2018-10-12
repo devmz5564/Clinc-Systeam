@@ -1,2 +1,8 @@
 # Clinc-Systeam
-https://mzclinck.000webhostapp.com/
+#Html css3 For Front End
+#Frameworks/Libraries: Bootstrap jQuery
+#Back End PHP
+#Database MYsql
+
+
+
